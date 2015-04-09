@@ -1,0 +1,478 @@
+#EXTM3U
+
+#EXTINF:0, tvg-name="TSN1" group-title="EPG",TSN 1
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:0, tvg-name="TSN2" group-title="EPG",TSN 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="TSN3" group-title="EPG",TSN 3
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0, tvg-name="TSN4" group-title="EPG",TSN 4
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+
+#EXTINF:0, tvg-name="TSN5" group-title="EPG",TSN 5
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+
+#EXTINF:0, tvg-name="SNO" group-title="EPG",Sportsnet Ontario
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/64.m3u8
+
+#EXTINF:0, tvg-name="SN1" group-title="EPG",Sportsnet One
+rtmp://31.220.0.206:1935/live/_definst_/sportsnetw
+
+#EXTINF:0, tvg-name="SN360" group-title="EPG",Sportsnet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:0, tvg-name="Fox Sports 1" group-title="EPG",Fox Sports 1
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="FS2" group-title="EPG",Fox Sports 2
+http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h
+
+#EXTINF:-1, tvg-name="321" group-title="EPG",Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:0, tvg-name="405" group-title="EPG",Sky Sports News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:0, tvg-name="MUTV" group-title="EPG",MUTV
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="ESPN" group-title="EPG",ESPN US
+http://50.7.69.186:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013&xs
+
+#EXTINF:-1, tvg-name="ESPN2" group-title="EPG", ESPN 2
+http://50.7.69.186:1935/edge/_definst_/5hd19kwxef5b59o/chunklist.m3u8?wowzasessionid=1420159722 timeout=10
+
+#EXTINF:0, tvg-name="ESPNU" group-title="EPG",ESPNU
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="MLB Network" group-title="EPG",MLB Network
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="NFLNET" group-title="EPG",NFL Network
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="NHLNET" group-title="EPG",NHL Network USA
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="406" group-title="EPG",Sports-2
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:0, tvg-name="409" group-title="EPG",Sports-3
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="NEWSNET" group-title="EPG",CTV News
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="CP24" group-title="EPG",CP24
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
+
+#EXTINF:0, tvg-name="503" group-title="EPG",BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:0, tvg-name="CNN" group-title="EPG",CNN US
+http://103.242.13.66:5000/nn_live.ts?id=bbcasia-m-h
+
+#EXTINF:0, tvg-name="FNC" group-title="EPG",Fox News Channel
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="501"  group-title="EPG",Sky News
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="The Weather Channel" group-title="EPG", The Weather Channel
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:-1,BBC One (UK)
+http://93.184.221.133/00573D/1277/1277-0.m3u8
+
+#EXTINF:-1 tvg-logo="BBCTwo.png" group-title="UK Live TV", BBC 2
+http://81.23.58.184:8080/udp/0.0.0.0:20015?Vd?u#bt!25
+
+#EXTINF:0, tvg-name="911" group-title="EPG", ABC New York
+http://103.242.13.66:5000/nn_live.ts?id=bbcasia-m-h
+
+#EXTINF:0, tvg-name="5733"  group-title="EPG", CBS New York
+rtmpe://167.114.65.139:1935/goLive playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| tcUrl=
+
+#EXTINF:-1, tvg-name="WNBC"  group-title="EPG", NBC New York
+rtmpe://167.114.65.139:1935/goLive playpath=nbc01_augqlbj1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+
+#EXTINF:-1, tvg-name="WNYW"  group-title="EPG", FOX New York
+rtmpe://167.114.65.139:1935/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+
+#EXTINF:-1, tvg-name="WNBC"  group-title="EPG", CW 44 Tampa
+http://50.7.69.186:1935/edge/_definst_/qvvkvojlano9hnj/manifest.m3u8?wowzasessionid=1426889772
+
+#EXTINF:-1, tvg-name="KOSA"  group-title="EPG", CBS West Texas
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+
+#EXTINF:-1, tvg-name="Global Toronto"  group-title="EPG", Global Tv Toronto
+http://link.theplatform.com/s/dtjsEC/77l1KA_G_5P1?feed=DEV%20Live%20Stream%20Feed
+
+#EXTINF:0, tvg-name="BBC America" group-title="EPG",BBC America
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="COMEDY" group-title="EPG",Comedy Central East
+http://103.242.13.66:5000/nn_live.ts?id=bbcasia-m-h
+
+#EXTINF:0, tvg-name="History" group-title="EPG",History
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="FX" group-title="EPG",FX East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="FOOD" group-title="EPG",Food Network East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="Lifetime" group-title="EPG",Lifetime East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:-1, tvg-name="USA" group-title="EPG",USA Network East
+http://4.31.30.145:9150
+
+#EXTINF:0, tvg-name="TCM" group-title="EPG",TCM US
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="TNT" group-title="EPG",TNT
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="TBS" group-title="EPG",TBS East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="HMM" group-title="EPG",Hallmark Movie Channel
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="TLC" group-title="EPG",TLC
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="DIY" group-title="EPG",DIY Network USA
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="AETV" group-title="EPG",A&E East
+http://103.242.13.66:5000/nn_live.ts?id=bbcasia-m-h
+
+#EXTINF:0, tvg-name="AMC" group-title="EPG",AMC East
+rtmpe://167.114.65.139:1935/goLive playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+
+#EXTINF:0, tvg-name="DSC" group-title="EPG", Discovery Channel USA
+http://103.242.13.66:5000/nn_live.ts?id=bbcasia-m-h
+
+#EXTINF:-1, tvg-name="ID" group-title="EPG", Investigation Discovery
+http://50.7.69.186:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+
+#EXTINF:0, tvg-name="APL" group-title="EPG",Animal Planet
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+
+#EXTINF:0, tvg-name="Oxygen" group-title="EPG",Oxygen
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="WE" group-title="EPG",WE TV
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="DISN" group-title="EPG", Disney Channel East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:-1, tvg-name="DISX" group-title="EPG", Disney xD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?
+
+#EXTINF:0, tvg-name="Nickelodeon" group-title="EPG",Nickelodeon
+http://146.158.123.198:4022/udp/239.72.6.146:1234
+
+#EXTINF:0, tvg-name="IFC" group-title="EPG",IFC East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="HBO" group-title="EPG",HBO East
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+
+#EXTINF:0, tvg-name="HBO2" group-title="EPG",HBO 2 East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="HBOSIG" group-title="EPG",HBO Signature East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="HBOP" group-title="EPG",HBO West
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="HB2P" group-title="EPG",HBO 2 West
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="HBOC" group-title="EPG",HBO Comedy East
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+
+#EXTINF:0, tvg-name="HBO Zone" group-title="EPG",HBO Zone
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:-1, HBO Movies
+rtmp://94.102.63.54/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGD timeout=15
+
+#EXTINF:-1,Star Movies HD
+http://185.27.237.105:8082/TV0051
+
+#EXTINF:0, tvg-name="CineMAX" group-title="EPG",CineMAX East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="MAXP" group-title="EPG",CineMAX West
+http://103.242.13.66:5000/nn_live.ts?
+
+#EXTINF:0, tvg-name="Showtime" group-title="EPG",Showtime East
+http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+
+#EXTINF:0, tvg-name="SHOWP" group-title="EPG",Showtime West
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="SHO2" group-title="EPG",Showtime 2 East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="SHOCSE" group-title="EPG",Showtime Showcase East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="SHOWX" group-title="EPG",Showtime Extreme East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="SHOWB" group-title="EPG",Showtime Beyond East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="TMC" group-title="EPG",The Movie Channel East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="TMCX" group-title="EPG",The Movie Channel Xtra East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="Encore" group-title="EPG",Encore East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="Starz" group-title="EPG",Starz East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="STARZP"  group-title="EPG",Starz West
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="STZE" group-title="EPG",Starz Edge East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="STZCI" group-title="EPG",Starz Cinema East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="STZC" group-title="EPG",Starz Comedy East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="STZIB" group-title="EPG",Starz in Black East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="STZK" group-title="EPG",Starz Kids & Family East
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="SONYHD" group-title="EPG",Sony Movie Channel USA
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="314" group-title="EPG",Sky Premiere
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/129.m3u8
+
+#EXTINF:0, tvg-name="304" group-title="EPG",Sky Comedy
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/126.m3u8
+
+#EXTINF:0, tvg-name="305" group-title="EPG",Sky Action & Adventure
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/125.m3u8
+
+#EXTINF:0, tvg-name="333" group-title="EPG",Sky Family
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/128.m3u8
+
+#EXTINF:0, tvg-name="Sky Movies Crime" group-title="EPG",Sky Crime
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="335" group-title="EPG",Sky Movies Drama
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/127.m3u8
+
+#EXTINF:0, tvg-name="336" group-title="EPG",Sky Sci-Fi & Horror
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/130.m3u8
+
+#EXTINF:0, tvg-name="337" group-title="EPG",Sky Modern Greats
+http://31.187.41.180:8001/1:0:1:1612:7D7:2:11A0000:0:0:0:
+
+#EXTINF:0, tvg-name="339" group-title="EPG",Sky Select
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/243.m3u8
+
+#EXTINF:0, tvg-name="303" group-title="EPG",Sky Movies Showcase
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="340" group-title="EPG", Sky Disney
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/246.m3u8
+
+#EXTINF:0, tvg-name="325" group-title="EPG", Movies4Men
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="321" group-title="EPG",True Movies
+http://212.70.155.243:40665/udp/237.100.0.177:4000
+
+#EXTINF:0, tvg-name="322" group-title="EPG",True Movies 2
+http://212.70.155.243:40665/udp/237.100.0.178:4000
+
+#EXTINF:-1, tvg-name="325" group-title="EPG", Universal
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+#EXTINF:-1, tvg-name="325" group-title="EPG", Warner Movies
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+#EXTINF:0, tvg-name="Palladia" group-title="EPG",Palladia
+http://laganvpn12.plus.com:9981/stream/channelid/86
+
+#EXTINF:0, tvg-name="103" group-title="EPG",ITV
+http://93.184.221.133/00573D/283/283-0.m3u8
+
+#EXTINF:0, tvg-name="118" group-title="EPG",ITV2
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/158.m3u8
+
+#EXTINF:0, tvg-name="123" group-title="EPG",ITV Encore
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="124" group-title="EPG",Fox
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="Pick" group-title="EPG",Pick
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="Quest" group-title="EPG",Quest
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="184" group-title="EPG",True Entertainment
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="Really" group-title="EPG",Really
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="Film4" group-title="EPG",Film4
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="327" group-title="EPG",Movies 24
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="Yesterday" group-title="EPG",Yesterday
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="613" group-title="EPG",CBBC
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="NGC" group-title="EPG",National Geographic
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0, tvg-name="Velocity" group-title="EPG",Discovery Turbo
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:-1, RAI 1
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+
+#EXTINF:-1, RAI 2
+http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+
+#EXTINF:-1, RAI 3
+http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+
+#EXTINF:-1, RAI 4
+mmsh://212.162.68.162/rai4
+
+#EXTINF:-1, RAI 5
+mmsh://212.162.68.162/rai5 
+
+#EXTINF:-1, RAI Premium
+mmsh://212.162.68.162/rai_premium
+
+#EXTINF:0,Rai Scuola
+mmsh://212.162.68.163:80/rai_scuola
+
+#EXTINF:0,Rai Storia
+mmsh://212.162.68.163/rai_storia
+
+#EXTINF:0,Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
+
+#EXTINF:0,Rai Sport 2
+mmsh://212.162.68.163:80/raisport2
+
+#EXTINF:-1,Rai News 24
+http://stream8.rai.it/live/smil:rainews.smil/chunklist_b1400000.m3u8
+
+#EXTINF:-1, Sky TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1,Tgcom24
+http://91.211.156.253/CH08.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:0, Alto Adige TV
+rtsp://77.72.196.214:8554/live/mp4:AltoAdigeTV
+
+#EXTINF:0, Canale 7
+http://fms.shared.streamshow.it/canale7/canale7/sansar.m3u8
+
+#EXTINF:0, E TV Marche
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/sansar.m3u8
+
+#EXTINF:0, Fano TV
+http://live.streamcaster.net:1935/live/fanotv/sansar.m3u8
+
+#EXTINF:0, Rete8
+http://rm-edge-4.cdn2.streamago.tv/streamagoedge/39648/36568/Rete8.m3u8
+
+#EXTINF:0, Euronews
+http://103.242.13.67:5000/nn_live.ts?id=euronews-m-h
+
+#EXTINF:-1, La7
+http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
+
+#EXTINF:-1,Cielo
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+
+#EXTINF:0, Fox Action Movies HD
+http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
+
+#EXTINF:0, Fox Movies Premium HD
+http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
+
+#EXTINF:0, Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+
+#EXTINF:0, 24-7 Movies
+http://167.114.65.88/hls/mv.m3u8
+
+#EXTINF:-1, Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1 Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8
+
+#EXTINF:0, Pink Action
+http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0, Pink Action 2
+http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0, PINK Action 3
+http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0, Pink Horror
+http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/mojtube.m3u8
+
+#EXTINF:0, Pink Movies 2
+http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:0, Pink Movies 3
+http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:-1, Test Discovery HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:-1, Pink Premium
+http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/balkansatnet.m3u8
+
+#EXTINF:-1, cbs aCTION
+http://93.184.221.133/00573D/711/711-0.m3u8
+ 
+#EXTINF:-1, cbs REALITY
+http://93.184.221.133/00573D/713/713-0.m3u8
+
+#EXTINF:-1, cbs Drama
+http://93.184.221.133/00573D/712/712-0.m3u8
